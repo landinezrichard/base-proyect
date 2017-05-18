@@ -8,6 +8,8 @@ INSTALAR TODO CON:
 	https://nodejs.org/api/errors.html#errors_error_code
 */
 
+// Funciona bien con node-v5.12.0
+
 //---------------------------------------------------------------------
 // DEPENDENCIAS
 //---------------------------------------------------------------------
